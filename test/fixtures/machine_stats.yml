@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sales: 1
+  currency: MyString
+  active_wifi_users: 1
+  machine: one
+
+two:
+  sales: 1
+  currency: MyString
+  active_wifi_users: 1
+  machine: two
